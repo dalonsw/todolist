@@ -146,3 +146,13 @@ section .adicionar-tarefas {
     color: #a5a5a5
 }
 
+.infoTarefa {
+    max-width: 80%;
+
+}
+
+.tarefas h3 {
+    font-size: 100%;
+    overflow: scroll;
+}
+
